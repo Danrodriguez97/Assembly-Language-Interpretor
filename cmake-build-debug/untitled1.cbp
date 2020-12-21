@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled1">
+				<Option output="/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled1/fast">
+				<Option output="/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/danielrodriguez/CLionProjects/Program4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/ADD.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/ADD.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/ALI.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/ALI.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/DEC.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/DEC.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/HLT.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/HLT.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/INT.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/INT.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/JMP.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/JMP.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/JVS.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/JVS.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/JZS.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/JZS.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/LDA.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/LDA.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/LDB.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/LDB.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/LDI.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/LDI.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/SAL.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/SAL.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/STR.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/STR.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/XCH.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/XCH.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/main.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/danielrodriguez/CLionProjects/Program4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
